@@ -1,0 +1,312 @@
+.plugin-file-cover-1,
+.plugin-file-cover-1 * {
+  box-sizing: border-box;
+}
+.plugin-file-cover-1 {
+  background: #020614;
+  height: 960px;
+  position: relative;
+  overflow: hidden;
+}
+.gradient-5 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: -244px;
+  top: 516px;
+  overflow: visible;
+}
+.gradient-6 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: 1146.64px;
+  top: -373.23px;
+  overflow: visible;
+}
+.gradient-7 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: 857.76px;
+  top: 511.05px;
+  transform: translate(-759.76px, -511.05px);
+  overflow: visible;
+}
+.gradient-8 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: 628px;
+  top: 660px;
+  overflow: visible;
+}
+.noise {
+  width: 1920px;
+  height: 960px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.home-page-1 {
+  background: #020614;
+  width: 1440px;
+  height: 800px;
+  position: absolute;
+  left: 240px;
+  top: 80px;
+  overflow: hidden;
+}
+.space {
+  opacity: 0.5;
+  width: 1920px;
+  height: 800px;
+  position: absolute;
+  left: -230px;
+  top: 0px;
+  mix-blend-mode: difference;
+  object-fit: cover;
+}
+.gradient-1 {
+  height: auto;
+  position: absolute;
+  left: -484px;
+  top: 436px;
+  overflow: visible;
+}
+.gradient-4 {
+  height: auto;
+  position: absolute;
+  left: 906.64px;
+  top: -453.23px;
+  overflow: visible;
+}
+.button-m {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 14.5px 24px 14.5px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  position: absolute;
+  left: 1200px;
+  top: 31px;
+}
+.start-exploring {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.gradient-3 {
+  height: auto;
+  position: absolute;
+  left: 617.76px;
+  top: 431.05px;
+  transform: translate(-617.76px, -431.05px);
+  overflow: visible;
+}
+.gradient-2 {
+  height: auto;
+  position: absolute;
+  left: 388px;
+  top: 580px;
+  overflow: visible;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 40px;
+  top: 36px;
+}
+.en {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.08em;
+  font-weight: 400;
+  position: relative;
+}
+.systems-arrow-drop-down-line {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.log-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.08em;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 37.5px;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Regular", sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.08em;
+  font-weight: 400;
+  position: absolute;
+  left: 169px;
+  top: 37.5px;
+}
+.frame-10 {
+  width: 1205px;
+  height: 492px;
+  position: absolute;
+  left: 155px;
+  top: 988px;
+}
+.overview {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 80px;
+  letter-spacing: -0.08em;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.vision {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: 80px;
+  line-height: 80px;
+  letter-spacing: -0.08em;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 280px;
+}
+.a-multiplayer-game-arcade-metaverse-where-players-socialize-and-compete-in-the-most-popular-arcade-games-players-win-create-gift-sell-nf-ts-while-competing-for-rewards-coins-and-bragging-rights-on-the-blockchain-accessible-everywhere {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 565px;
+  top: 5px;
+  width: 640px;
+}
+.blockchain-technology-ensures-items-that-players-win-or-create-are-recorded-and-owned-by-the-player-all-activities-drive-a-cycle-for-nft-creation-and-commerce-through-player-creativity-and-gameplay-the-model-is-simple-play-games-and-make-money {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 565px;
+  top: 285px;
+  width: 640px;
+}
+.line-5 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  opacity: 0.3;
+  width: 1160px;
+  height: 0px;
+  position: absolute;
+  left: 5px;
+  top: 212px;
+}
+.line-6 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  opacity: 0.3;
+  width: 1160px;
+  height: 0px;
+  position: absolute;
+  left: 5px;
+  top: 492px;
+}
+.button-l {
+  background: #ffffff;
+  padding: 18px 24px 18px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 320px;
+  position: absolute;
+  left: 560px;
+  top: 559px;
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.a-multiplayer-game-arcade-metaverse-where-players-socialize-and-compete-in-the-most-popular-arcade-games {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 380px;
+  top: 475px;
+  width: 680px;
+}
+.is-a-distributed-gaming-environment-for-the-generations-brought-to-the-metaverse {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  left: 400px;
+  top: 371px;
+  width: 640px;
+}
+.crypto-space {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: 144px;
+  line-height: 120px;
+  letter-spacing: -0.08em;
+  font-weight: 700;
+  position: absolute;
+  left: 265px;
+  top: 228px;
+}
