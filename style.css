@@ -1,0 +1,312 @@
+.plugin-file-cover-1,
+.plugin-file-cover-1 * {
+  box-sizing: border-box;
+}
+.plugin-file-cover-1 {
+  background: #020614;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.gradient-5 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: -Infinityrem;
+  top: Infinityrem;
+  overflow: visible;
+}
+.gradient-6 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: Infinityrem;
+  top: -Infinityrem;
+  overflow: visible;
+}
+.gradient-7 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  transform: translate(-Infinityrem, -Infinityrem);
+  overflow: visible;
+}
+.gradient-8 {
+  opacity: 0.2;
+  height: auto;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  overflow: visible;
+}
+.noise {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  object-fit: cover;
+}
+.home-page-1 {
+  background: #020614;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  overflow: hidden;
+}
+.space {
+  opacity: 0.5;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: -Infinityrem;
+  top: NaNrem;
+  mix-blend-mode: difference;
+  object-fit: cover;
+}
+.gradient-1 {
+  height: auto;
+  position: absolute;
+  left: -Infinityrem;
+  top: Infinityrem;
+  overflow: visible;
+}
+.gradient-4 {
+  height: auto;
+  position: absolute;
+  left: Infinityrem;
+  top: -Infinityrem;
+  overflow: visible;
+}
+.button-m {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: Infinityrem;
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: center;
+  width: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.start-exploring {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 700;
+  position: relative;
+}
+.gradient-3 {
+  height: auto;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  transform: translate(-Infinityrem, -Infinityrem);
+  overflow: visible;
+}
+.gradient-2 {
+  height: auto;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  overflow: visible;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: row;
+  gap: NaNrem;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.en {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Regular", sans-serif;
+  font-size: Infinityrem;
+  letter-spacing: -0.08em;
+  font-weight: 400;
+  position: relative;
+}
+.systems-arrow-drop-down-line {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.log-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Regular", sans-serif;
+  font-size: Infinityrem;
+  letter-spacing: -0.08em;
+  font-weight: 400;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Regular", sans-serif;
+  font-size: Infinityrem;
+  letter-spacing: -0.08em;
+  font-weight: 400;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.frame-10 {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.overview {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: Infinityrem;
+  line-height: Infinityrem;
+  letter-spacing: -0.08em;
+  font-weight: 700;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+}
+.vision {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: Infinityrem;
+  line-height: Infinityrem;
+  letter-spacing: -0.08em;
+  font-weight: 700;
+  position: absolute;
+  left: NaNrem;
+  top: Infinityrem;
+}
+.a-multiplayer-game-arcade-metaverse-where-players-socialize-and-compete-in-the-most-popular-arcade-games-players-win-create-gift-sell-nf-ts-while-competing-for-rewards-coins-and-bragging-rights-on-the-blockchain-accessible-everywhere {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 500;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  width: Infinityrem;
+}
+.blockchain-technology-ensures-items-that-players-win-or-create-are-recorded-and-owned-by-the-player-all-activities-drive-a-cycle-for-nft-creation-and-commerce-through-player-creativity-and-gameplay-the-model-is-simple-play-games-and-make-money {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 500;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  width: Infinityrem;
+}
+.line-5 {
+  margin-top: -Infinityrem;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: Infinityrem 0 0 0;
+  opacity: 0.3;
+  width: Infinityrem;
+  height: NaNrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.line-6 {
+  margin-top: -Infinityrem;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: Infinityrem 0 0 0;
+  opacity: 0.3;
+  width: Infinityrem;
+  height: NaNrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.button-l {
+  background: #ffffff;
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: center;
+  width: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 700;
+  position: relative;
+}
+.a-multiplayer-game-arcade-metaverse-where-players-socialize-and-compete-in-the-most-popular-arcade-games {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  width: Infinityrem;
+}
+.is-a-distributed-gaming-environment-for-the-generations-brought-to-the-metaverse {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Medium", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 500;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  width: Infinityrem;
+}
+.crypto-space {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AberMono-Bold", sans-serif;
+  font-size: Infinityrem;
+  line-height: Infinityrem;
+  letter-spacing: -0.08em;
+  font-weight: 700;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
